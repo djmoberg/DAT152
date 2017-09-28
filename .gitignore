@@ -10,6 +10,9 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Eclipse Core
+.project~
+
 # Package Files #
 *.jar
 *.war
